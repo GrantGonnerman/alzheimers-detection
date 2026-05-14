@@ -10,7 +10,7 @@ Early identification of Alzheimer’s risk can lead to better patient outcomes t
 
 ## 🗂️ Dataset
 - **Source**: Alzheimer’s MRI dataset ([Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data))
-- **Target**: Binary or multi-class classification of Alzheimer’s diagnosis stages
+- **Target**: Binary classification of Alzheimer’s diagnosis
 - **Features**: Patient demographics, cognitive test scores, clinical measurements, lifestyle factors, and medical history indicators.
 
 ## 🔧 Key Techniques & Models
