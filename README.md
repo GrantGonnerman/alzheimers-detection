@@ -9,7 +9,7 @@ This project develops a Convolutional Neural Network (CNN) to classify brain MRI
 Early detection of Alzheimer’s can significantly improve patient outcomes through timely treatment and care planning. This project demonstrates the application of deep learning in medical imaging for neurodegenerative disease classification.
 
 ## 🗂️ Dataset
-- **Source**: Alzheimer’s MRI dataset (loaded from AWS S3)
+- **Source**: Alzheimer’s MRI dataset ([Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset/data))
 - **Target**: Multi-class classification (e.g., Non-Demented, Very Mild Demented, Mild Demented, Moderate Demented)
 - **Features**: Brain MRI scans (grayscale or RGB images)
 
